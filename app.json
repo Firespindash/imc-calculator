@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "IMCalculator",
+    "slug": "imc-calculator",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "android": {
+      "package": "com.firespindash.IMCalculator"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4b0082"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
