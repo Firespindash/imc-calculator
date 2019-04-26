@@ -6,8 +6,13 @@ body {
   
 }
 
+.container#header {
+  background-color: blue;
+}
+
+
 h3 {
-  
+  font-weigt: bold;
 }
 
 p {
