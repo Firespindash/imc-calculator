@@ -4,6 +4,6 @@ body {
 
 .container {
   display: flex;
-  width: 30px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
 }
