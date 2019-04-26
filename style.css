@@ -21,7 +21,6 @@ body {
 
 .container#header {
   height: 200px;
-  color: white;
   text-align: center;
   background: linear-gradient(blue, purple) ;
 }
@@ -36,8 +35,9 @@ body {
 }
 
 h1, h2 {
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  color: white;
 
 h3 {
   font-weigt: bold;
