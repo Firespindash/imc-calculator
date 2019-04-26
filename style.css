@@ -5,6 +5,7 @@ body {
 .container {
   width: 50%;
   height: 500px;
+  justify-content: center;
   background-color: #fff; 
 }
 
