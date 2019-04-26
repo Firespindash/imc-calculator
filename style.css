@@ -1,3 +1,9 @@
 body {
   background-color: #ddd;
 }
+
+#header{
+  background-color: tomato;
+  width: 100vh;
+  height: 5em;
+}
