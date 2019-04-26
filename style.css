@@ -23,7 +23,7 @@ body {
   height: 200px;
   color: white;
   text-align: center;
-  background-color: blue;
+  background-color: linear-gradient(blue, purple) ;
 }
 
 .container#p {
