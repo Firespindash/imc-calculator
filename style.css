@@ -30,6 +30,11 @@ body {
   height: 25px;
 }
 
+.container#footer {
+  background-color: #562a8c;
+  color: white;
+}
+
 h3 {
   font-weigt: bold;
 }
