@@ -21,10 +21,6 @@ body {
 
 .container#header {
   height: 200px;
-  display: flex;
-  flex: wrap;
-  align-items: center;
-  text-align: center;
   background: linear-gradient(blue, purple) ;
 }
 
@@ -38,6 +34,9 @@ body {
 }
 
 h1, h2 {
+  margin-top: 50%;
+  transform: translate(0, -50%);
+  text-align: center;
   color: white;
 
 h3 {
