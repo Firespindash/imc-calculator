@@ -21,7 +21,9 @@ body {
 
 .container#header {
   height: 200px;
-  justify-content: center;
+  display: flex;
+  flex: wrap;
+  align-items: center;
   text-align: center;
   background: linear-gradient(blue, purple) ;
 }
