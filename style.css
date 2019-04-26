@@ -4,6 +4,7 @@ body {
 
 #header{
   background-color: tomato;
-  width: 100vh;
-  height: 5em;
+  width: 50%;
+  justify-content: center;
+  height: 20em;
 }
