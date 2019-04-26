@@ -21,6 +21,8 @@ body {
 
 .container#header {
   height: 200px;
+  display: flex;
+  align-items: center;
   text-align: center;
   background: linear-gradient(blue, purple) ;
 }
@@ -35,7 +37,6 @@ body {
 }
 
 h1, h2 {
-  vertical-align: middle;
   color: white;
 
 h3 {
