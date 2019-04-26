@@ -35,6 +35,10 @@ body {
   color: white;
 }
 
+h1, h2 {
+  margin-top: auto;
+  margin-bottom: auto;
+
 h3 {
   font-weigt: bold;
 }
