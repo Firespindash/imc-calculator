@@ -2,9 +2,8 @@ body {
   background-color: #ddd;
 }
 
-#header{
-  background-color: tomato;
-  width: 50%;
-  justify-content: center;
-  height: 20em;
+.container {
+  display: flex;
+  width: 30px;
+  height: 300px;
 }
