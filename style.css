@@ -1,15 +1,22 @@
 body {
   justify-content: center;
-  background-color: #ddd;
+  background-color: #fff;
 }
 
 .container {
+  margin-top: 0;
+  margin-bottom: 0;
   margin-right: auto;
   margin-left: auto;
   width: 50%;
   height: 200px;
   align-content: center;
   background-color: #fff; 
+}
+
+.container#text {
+  background-color: #562a8c;
+  color: white;
 }
 
 .container#header {
@@ -20,7 +27,7 @@ body {
 }
 
 .container#p {
-  
+  height: 25px;
 }
 
 h3 {
