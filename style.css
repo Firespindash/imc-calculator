@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  
+  background-color: #fff; 
 }
 
 .container#header {
@@ -13,7 +13,7 @@ body {
 }
 
 .container#p {
-  background-color: #562a8c; 
+  
 }
 
 h3 {
