@@ -8,20 +8,22 @@ body {
 
 .container#header {
   color: white;
-  align-content: center;
+  text-align: center;
   background-color: blue;
 }
 
 .container#p {
-  
+  text-align: center;
 }
 
 h3 {
   font-weigt: bold;
+  text-align: center;
 }
 
 p {
- font-weigt: 300;
- line-height: 1.5;
- font-size: 112%;
+  text-align: center;
+  font-weigt: 300;
+  line-height: 1.5;
+  font-size: 112%;
 }
