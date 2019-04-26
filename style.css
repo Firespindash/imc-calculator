@@ -35,8 +35,7 @@ body {
 }
 
 h1, h2 {
-  margin-top: 50%;
-  margin-bottom: 50%;
+  vertical-align: middle;
   color: white;
 
 h3 {
