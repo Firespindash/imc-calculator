@@ -23,11 +23,13 @@
 }
 
 .item#paragph {
+  width: 50%;
   background-color: lightblue;
   border: 1px solid #492683;
 }
 
 .item#footer {
+  width: 50%;
   border-top: 2px solid #392683;
   margin-top: 15px;
   padding: 0;
@@ -39,6 +41,7 @@
 }
 
 p {
+  width: 50%;
   justify-content: center;
   align-content: center;
   line-height: 1.5;
