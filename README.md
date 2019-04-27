@@ -1,2 +1,2 @@
-# imc-calculator
-An imc calculator to help you stay at the right weight
+# Official page of imc-calculator
+This is the official page of imc-calculator part!
