@@ -1,3 +1,31 @@
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  background-color: #fff;
+}
+
+.item {
+  justify-content: center;
+  align-content: center;
+  margin: 2px auto;
+  text-align: center;
+  padding: 2px;
+}
+
+.item#header {
+  background: linear-gradient(#1e28db, #701edb);
+  color: white;
+  font-family: Arial;
+  padding: 5px;
+}
+
+.item#paragph {
+  background-color: lightblue;
+  border: 1px solid #492683;
+}
+
 .item#footer {
   border-top: 2px solid #392683;
   margin-top: 15px;
@@ -8,6 +36,7 @@
   background-color: lightblue;
   border: 1px solid black;
 }
+
 p {
   justify-content: center;
   align-content: center;
