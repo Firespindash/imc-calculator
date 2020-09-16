@@ -1,5 +1,5 @@
 # imc-calculator
-An imc calculator to help you stay at the right weight 
+An imc calculator to help you stay at the right weight. 
 
 ## Run
 If you want to run it, download the repository, type in terminal `npm install`, if there are packages outdated you can use `npm-ckeck-updates -u` and then `npm install`, and run it with `npm start`.
