@@ -6,14 +6,9 @@
     "android": {
       "package": "com.firespindash.IMCalculator"
     },
-    "version": "1.0.0",
+    "version": "1.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#4b0082"
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },

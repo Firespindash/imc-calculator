@@ -1,0 +1,41 @@
+{
+	en: {
+		weight: "Weight:",
+		height: "Height:",
+		calc: "Calculate",
+		sThin: "Severe thinness",
+		mThin: "Moderate thinness",
+		under: "Mild thinness",
+		healthy: "Healthy",
+		over: "Overweight",
+		obs: "Obesity Class I",
+		mObs: "Obesity Class II",
+		bObs: "Obesity Class III"
+	},
+	pt: {
+		weight: "Massa:",
+		height: "Altura:",
+		calc: "Calcular",
+		sThin: "Magreza Grave",
+		mThin: "Magreza Moderada",
+		under: "Magreza Leve",
+		healthy: "Saudável",
+		over: "Sobrepeso",
+		obs: "Obesidade Grau I",
+		mObs: "Obesidade Grau II",
+		bObs: "Obesidade Grau III"
+	},
+	de: {
+		weight: "Gewicht:",
+		height: "Größe:",
+		calc: "Rechnen",
+		sThin: "Starkes Untergewicht",
+		mThin: "Mäßiges Untergewicht",
+		under: "Leichtes Untergewicht",
+		healthy: "Gesund",
+		over: "Präadipositas",
+		obs: "Adipositas Grad I",
+		mObs: "Adipositas Grad II",
+		bObs: "Adipositas Grad III"
+	}
+}
